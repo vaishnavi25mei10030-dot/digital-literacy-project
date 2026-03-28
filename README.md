@@ -3,9 +3,10 @@ This repository showcases my Digital Literacy Portfolio, including tasks on info
 # Digital Literacy Project
 
 ## 👩‍🎓 Student Details
-**Name:** Vaishnavi Jha
+**Name:** Vaishnavi Jha  
 **Course:** Int M.Tech Computer Science Engineering  
 **Year:** 1st Year  
+
 
 ---
 
